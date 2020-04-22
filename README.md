@@ -40,7 +40,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 ## Open source projects using 1Password Teams
 
 ### WWDCScholars
-WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintain an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
+WWDCScholars is a community of [Apple WWDC Scholarship winners](https://developer.apple.com/wwdc/scholarships/). Together we developed and maintained an [iOS app](https://itunes.apple.com/us/app/scholars-of-wwdc/id999731893?mt=8), the [main website](https://wwdcscholars.com) and a [sign-up form](https://join.wwdcscholars.com).
 [Link to project](https://github.com/wwdcscholars)
 
 ### Reddit Enhancement Suite
@@ -182,7 +182,7 @@ The IndieWeb community maintains [several tools and plugins](https://github.com/
 https://indieweb.org
 
 ### Pluginkollektiv
-Community project dedicated to the maintenance and continuous development several popular WordPress plugins.
+Community project dedicated to the maintenance and continuous development of several popular WordPress plugins.
 https://pluginkollektiv.org
 
 ### MyBB
@@ -346,11 +346,11 @@ and education. We create multiple sample open source projects for people to use.
 See [Link to projects](https://github.com/gdgnoco)
 
 ### Snap<em>!</em>
-[Snap<em>!</em>](https://github.com/jmoenig/snap) is an educational programming langauge that allows students to build engaging projects while exploring deep concepts in computer science. Students can share their projects on the [Snap!Cloud](https://github.com/bromagosa/snapCloud).
+[Snap<em>!</em>](https://github.com/jmoenig/snap) is an educational programming language that allows students to build engaging projects while exploring deep concepts in computer science. Students can share their projects on the [Snap!Cloud](https://github.com/bromagosa/snapCloud).
 https://snap.berkeley.edu
 
 ### The Beauty and Joy of Computing
-The Beauty and Joy of Computing is an introduction to computer science designed to broaden participation. High school and college students learn fudentals of CS and build personal projects while also exploring social impacts of computing.
+The Beauty and Joy of Computing is an introduction to computer science designed to broaden participation. High school and college students learn fundamentals of CS and build personal projects while also exploring social impacts of computing.
 https://bjc.berkeley.edu
 
 ### RiiConnect24
